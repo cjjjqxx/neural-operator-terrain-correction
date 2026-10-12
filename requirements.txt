@@ -1,0 +1,14 @@
+numpy==1.26.4
+scipy==1.13.1
+torch==2.5.1
+scikit-fem==8.1.0
+rasterio==1.4.3
+pykrige==1.7.3
+matplotlib==3.8.1
+cartopy==0.25.0
+cmcrameri==1.8
+shapely==2.0.2
+pyproj==3.7.2
+pandas==3.0.3
+scikit-learn==1.9.0
+cmocean==3.0.3

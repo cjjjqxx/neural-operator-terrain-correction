@@ -1,0 +1,20 @@
+{
+  "upload_type": "software",
+  "title": "Neural-operator terrain correction of global heat flow",
+  "version": "1.0",
+  "license": "MIT",
+  "creators": [
+    {
+      "name": "[Surname, Given name]",
+      "affiliation": "[Affiliation]",
+      "orcid": "[0000-0000-0000-0000]"
+    }
+  ],
+  "description": "Code accompanying \"Global terrain correction of continental heat flow with a neural-operator surrogate of three-dimensional heat-conduction simulations\".",
+  "keywords": [
+    "heat flow",
+    "terrain correction",
+    "Fourier neural operator",
+    "finite element"
+  ]
+}

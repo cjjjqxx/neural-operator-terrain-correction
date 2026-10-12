@@ -1,0 +1,10 @@
+*.npz
+*.pt
+*.nc
+*.tif
+*.json
+!.zenodo.json
+logs/
+data/
+__pycache__/
+figures/figs_v2/

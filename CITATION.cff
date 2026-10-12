@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the article and the archived code."
+title: "Neural-operator terrain correction of global heat flow"
+version: "1.0"
+license: MIT
+authors:
+  - family-names: "[Surname]"
+    given-names: "[Given name]"
+    orcid: "https://orcid.org/[0000-0000-0000-0000]"
+doi: "[software DOI]"
+repository-code: "[GitHub URL]"
