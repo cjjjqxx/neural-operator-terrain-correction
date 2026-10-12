@@ -5,9 +5,8 @@
   "license": "MIT",
   "creators": [
     {
-      "name": "[Surname, Given name]",
-      "affiliation": "[Affiliation]",
-      "orcid": "[0000-0000-0000-0000]"
+      "name": "Chen, Junji",
+      "affiliation": "Chengdu University of Technology"
     }
   ],
   "description": "Code accompanying \"Global terrain correction of continental heat flow with a neural-operator surrogate of three-dimensional heat-conduction simulations\".",

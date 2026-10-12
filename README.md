@@ -1,6 +1,6 @@
 # Neural-operator terrain correction of global heat flow
 
-Code for the manuscript "Global terrain correction of continental heat flow with a neural-operator surrogate of three-dimensional heat-conduction simulations" ([Authors], submitted to JGR: Solid Earth).
+Code for the manuscript "Global terrain correction of continental heat flow with a neural-operator surrogate of three-dimensional heat-conduction simulations" (Junji Chen et al., submitted to JGR: Solid Earth).
 Licence: MIT. Data products: Zenodo https://doi.org/10.5281/zenodo.23311169.
 
 ## What is here
