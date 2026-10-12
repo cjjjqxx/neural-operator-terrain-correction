@@ -27,16 +27,18 @@ Third-party data, obtained from their original sources:
 
 - IHFC Global Heat Flow Database, Release 2024 (V. 2026.03): https://doi.org/10.5880/fidgeo.2024.014.
   Set `IHFC_GHFDB` to the path of `IHFC_2024_GHFDB_v.2026.03.txt`, or place it in `data/`.
-- SRTM15+ global topography (Tozer et al., 2019): https://doi.org/10.1029/2019EA000658. `fetch_dem.py` downloads it
-  and checks a raster against the requirements; the paper used a ~450 m resampled version. Set `SRTM15_DEM` to the
-  GeoTIFF path, or place it at `data/SRTM15_450m.tif`.
+- SRTM15+ global topography (Tozer et al., 2019): https://doi.org/10.1029/2019EA000658. The exact grid used in the
+  paper (ocean set to 0 m) is included in the Zenodo data record as `SRTM15_450m.tif`; place it at
+  `data/SRTM15_450m.tif` or set `SRTM15_DEM` to its path. `fetch_dem.py` can instead download SRTM15+ from its source
+  and check a raster against the requirements.
 - Only for the external tests: the 2° equal-area heat-flow table of Davies (2013, https://doi.org/10.1002/ggge.20271,
   supporting information), saved as `ggge20271-sup-0001-data_table1_eq_area_global_heat_flow.csv`; and the 0.5° kriged
   field of Petrunin et al. (2026, https://doi.org/10.5880/GFZ.KHAG.2026.004), placed at
   `ghfdb2024_official/IHFC_2024_GHFDB_05x05_WGS1984_Kriging.csv`.
 
 From the Zenodo data record of this paper: place `operator_weights.pt` as `fno3d_large_model.pt` and
-`fem_training_set.npz` as `global_fem_dataset.npz` in this directory, and unzip `intermediate_products.zip` here.
+`fem_training_set.npz` as `global_fem_dataset.npz` in this directory, put `SRTM15_450m.tif` in `data/`, and unzip
+`intermediate_products.zip` here.
 
 ## Quick start: correct your own sites
 
