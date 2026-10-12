@@ -6,5 +6,6 @@ license: MIT
 authors:
   - family-names: "Chen"
     given-names: "Junji"
+    orcid: "https://orcid.org/0009-0004-7801-9198"
 doi: "10.5281/zenodo.23311251"
 repository-code: "https://github.com/cjjjqxx/neural-operator-terrain-correction"

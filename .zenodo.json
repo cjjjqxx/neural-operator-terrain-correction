@@ -6,7 +6,8 @@
   "creators": [
     {
       "name": "Chen, Junji",
-      "affiliation": "Chengdu University of Technology"
+      "affiliation": "Chengdu University of Technology",
+      "orcid": "0009-0004-7801-9198"
     }
   ],
   "description": "Code accompanying \"Global terrain correction of continental heat flow with a neural-operator surrogate of three-dimensional heat-conduction simulations\".",
