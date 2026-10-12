@@ -8,6 +8,75 @@
       "name": "Chen, Junji",
       "affiliation": "Chengdu University of Technology",
       "orcid": "0009-0004-7801-9198"
+    },
+    {
+      "name": "Wang, Yingchun",
+      "affiliation": "Chengdu University of Technology; The University of Tokyo",
+      "orcid": "0000-0001-8089-1920"
+    },
+    {
+      "name": "Li, Xintian",
+      "affiliation": "Chengdu University of Technology"
+    },
+    {
+      "name": "Liao, Shuang",
+      "affiliation": "Chengdu University of Technology"
+    },
+    {
+      "name": "Wang, Yi",
+      "affiliation": "Chengdu University of Technology",
+      "orcid": "0009-0008-0941-2163"
+    },
+    {
+      "name": "Klemperer, Simon",
+      "affiliation": "Stanford University",
+      "orcid": "0000-0001-7050-1829"
+    },
+    {
+      "name": "Zhang, Ji",
+      "affiliation": "The University of Tokyo",
+      "orcid": "0000-0001-9582-7577"
+    },
+    {
+      "name": "Hao, Yinlei",
+      "affiliation": "Université de Lorraine; Guangdong Academy of Sciences",
+      "orcid": "0000-0002-2084-3465"
+    },
+    {
+      "name": "Tian, Jiao",
+      "affiliation": "China Earthquake Administration"
+    },
+    {
+      "name": "Zhao, Yazhou",
+      "affiliation": "Zhejiang University"
+    },
+    {
+      "name": "Zhou, Xiaocheng",
+      "affiliation": "China Earthquake Administration",
+      "orcid": "0000-0002-3130-319X"
+    },
+    {
+      "name": "Liao, Dawei",
+      "affiliation": "Sinopec Petroleum Exploration and Production Research Institute"
+    },
+    {
+      "name": "Zuo, Yinhui",
+      "affiliation": "Chengdu University of Technology",
+      "orcid": "0000-0003-1272-0219"
+    },
+    {
+      "name": "Kong, Yanlong",
+      "affiliation": "Institute of Geology and Geophysics, Chinese Academy of Sciences",
+      "orcid": "0000-0002-6414-6266"
+    },
+    {
+      "name": "Pang, Zhonghe",
+      "affiliation": "Institute of Geology and Geophysics, Chinese Academy of Sciences"
+    },
+    {
+      "name": "Iwamori, Hikaru",
+      "affiliation": "The University of Tokyo",
+      "orcid": "0000-0001-7809-958X"
     }
   ],
   "description": "Code accompanying \"Global terrain correction of continental heat flow with a neural-operator surrogate of three-dimensional heat-conduction simulations\".",
