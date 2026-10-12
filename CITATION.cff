@@ -7,5 +7,5 @@ authors:
   - family-names: "[Surname]"
     given-names: "[Given name]"
     orcid: "https://orcid.org/[0000-0000-0000-0000]"
-doi: "[software DOI]"
-repository-code: "[GitHub URL]"
+doi: "10.5281/zenodo.23311251"
+repository-code: "https://github.com/cjjjqxx/neural-operator-terrain-correction"

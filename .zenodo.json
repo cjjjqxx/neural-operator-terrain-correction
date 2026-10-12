@@ -16,5 +16,12 @@
     "terrain correction",
     "Fourier neural operator",
     "finite element"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.23311169",
+      "relation": "references",
+      "scheme": "doi"
+    }
   ]
 }
